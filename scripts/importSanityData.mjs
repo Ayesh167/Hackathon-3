@@ -8,10 +8,10 @@ function _importDefault(mod) {
 }
 
 export const client = createClient({
-    projectId:"1uy309a9",
+    projectId:"60p6d5gm",
     dataset:"production",
     apiVersion:"v2025-01-18",
-    token:"skiEv2Pk49GqUrMXBAcFTzqfkQWw5Ldfu2aDOoNPE1nUOluUiPYyNoMlkuNEkpfMjdmeVG5AwvJoPrJkkgKst8lnOodr8ZFumZgYlXq9lDM2iZ28WZIf2xwyEgcMAwbfj0enDQlaQlJgrztfDAlB3lqyvDqRRw5W7nKaTKCN62HOVYfYQtIE",
+    token:"skCHmk0fG44gLowpnMEaMhfGeIovllzuuHHQbtVgvFdguZkyAp69nonNJKrlDalkDugKW2RuVfxjMHuOqNoygu52TpAjNkObbJtf2Fk3ohGymX04o5nGRXzhkrqwChPwGQn3lsKUd8ce9leQMdn7wBXrXWnWCGM4DtZnQftrN7ZOAwEol4Sf",
     useCdn: false,
   })
 
